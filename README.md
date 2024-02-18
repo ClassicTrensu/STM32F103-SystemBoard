@@ -3,7 +3,7 @@
 ****
 ## 原理图
 
-![SCH](https://github.com/ClassicTrensu/STM32F103-SystemBoard/SCH.png"SCH")
+![SCH](https://github.com/ClassicTrensu/STM32F103-SystemBoard/edit/main/SCH.png"SCH")
 
 ****
 ## PCB走线
